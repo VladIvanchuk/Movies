@@ -1,0 +1,1 @@
+export { StatisticWrapper } from './StatisticWrapper';

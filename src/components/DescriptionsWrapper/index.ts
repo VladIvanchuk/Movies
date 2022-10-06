@@ -1,0 +1,1 @@
+export { DescriptionsWrapper } from './DescriptionsWrapper';

@@ -1,0 +1,1 @@
+export { RecommendedFilms } from './RecommendedFilms';
